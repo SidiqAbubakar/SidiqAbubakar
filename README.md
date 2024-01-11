@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakar Sidiq, a petroleum engineering student at the Kwame Nkrumah University of Science and Technology.
 - 👀 I’m a data enthusiast. I'm interested in finding insights from data, using data to find solutions and help make informded decision to our existing and new problems. 
-- 🌱 I’m currently learning Data Analytics and Data Science to make my passion a reality to help impact the world with my skills.
+- 🌱 I’m currently learning Data Analytics and Data Science to make my passion a reality as well as to help impact the world with my skills.
 - 💞️ I’m looking to collaborate with data scientists and the data engineers here to build models to help solve complex problems using our skills.
 
 - My Skills include:
